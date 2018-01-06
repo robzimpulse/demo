@@ -1,6 +1,6 @@
 {
   "rooms": [
-    { "id": 1, "name": "Room 1", "icon": "waeasdasdasdasd" },
+    { "id": 1, "name": "Room 1", "icon": "https://lorempixel.com/200/200" },
     { "id": 2, "name": "Room 2" },
     { "id": 3, "name": "Room 3" },
     { "id": 4, "name": "Room 4" },
